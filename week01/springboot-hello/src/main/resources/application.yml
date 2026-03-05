@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-hello
+server:
+  port: 8080

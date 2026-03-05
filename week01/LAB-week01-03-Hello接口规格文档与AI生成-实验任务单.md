@@ -58,7 +58,7 @@ week01/
 - data 为欢迎语字符串，例如："Hello Spring Boot"
 
 ## 3. 技术约束
-- 使用 Spring Boot 3.x
+- 使用 Spring Boot 3.5.11
 - 使用 Java 17
 - 端口使用默认 8080
 - 返回类型使用统一包装类 ResultVO<String>
