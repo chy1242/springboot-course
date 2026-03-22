@@ -1,0 +1,23 @@
+server:
+  port: 9999
+  servlet:
+    # 设置项目路径
+    context-path: /api
+
+
+
+spring:
+  application:
+    name: springboot-week03 测试环境
+  devtools:
+    livereload:
+      enabled: true  # 开启 LiveReload
+    restart:
+      enabled: true  # 开启自动重启
+
+
+#自定义配置
+app:
+  appName: 企业后台管理系统
+  appVersion: 1.0.1
+  appDescription: 企业后台管理系统-Spring Boot 3.5.11 实战项目
