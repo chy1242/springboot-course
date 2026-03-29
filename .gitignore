@@ -89,7 +89,6 @@ application-local.properties
 application-dev.yml
 application-dev.properties
 # 本地配置(含密钥不提交)
-application-prod.yml
 application-local.yml
 application-dev.yml
 config/
